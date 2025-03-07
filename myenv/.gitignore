@@ -1,0 +1,9 @@
+myenv/
+
+# Ignore scikit-learn cache and auto-generated model files
+*.joblib
+*.pkl
+*.sav
+*.npy
+*.npz
+sklearn_cache/
